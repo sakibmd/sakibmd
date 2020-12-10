@@ -1,10 +1,13 @@
 ### Here is what i'm working on! 👋
 
 
+<a target="_blank" href="https://www.linkedin.com/in/sakib-mohammed/"><img width="350" align="right" src="https://i.imgur.com/bPHcsTs.gif"></a>
+
 - 🔭 I’m currently working on ... Laravel
 - 🌱 I’m currently learning ... Vue.js & Rest Api
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: sakibmd.cse@gmail.com
+
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibmd&layout=compact)
 
