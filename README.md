@@ -9,9 +9,6 @@
 - 📫 How to reach me: sakibmd.cse@gmail.com
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibmd&layout=compact)
-
-
 ## Contact Me
 
 [![](https://img.shields.io/badge/LinkedIn-sakibmohammed-blue)](https://www.linkedin.com/in/sakib-mohammed/)
