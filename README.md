@@ -1,11 +1,11 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sakibmd)
-### Here is what i'm working on! 👋
+### Here is what I'm working on! 👋
 
 
 <a target="_blank" href="https://www.linkedin.com/in/sakibmd42/"><img width="350" align="right" src="https://i.imgur.com/bPHcsTs.gif"></a>
 
 - 💼 I’m currently working on a software company named <b><a href="https://authlab.io/" target="_blank">AuthLab</a></b>
-- 👨‍💻 Currently working in ... Wordpress Plugin Development sector 
+- 👨‍💻 Currently working in ... Wordpress Plugin Development  
 - 💻 Also improved myself by learning ... Node.js & Express.js framework
 - 📧 How to reach me: sakibmd.cse@gmail.com
 
